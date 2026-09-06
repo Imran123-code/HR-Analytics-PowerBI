@@ -35,7 +35,16 @@ Analyzes employee attrition and termination patterns.
 
 ## 📷 Dashboard Preview
 
-Add your dashboard screenshots here.
+## 📷 Dashboard Preview
+
+### Overview
+![HR Dashboard Overview](screenshots/Screenshot%202026-09-06%20191545.png)
+
+### Employee Details
+![Employee Details](screenshots/Screenshot%202026-09-06%20191534.png)
+
+### Attrition
+![Attrition Dashboard](screenshots/Screenshot%202026-09-06%20191554.png)
 
 ## 📁 Files
 
