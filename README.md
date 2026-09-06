@@ -25,26 +25,30 @@ The dashboard analyzes employee data to provide insights into workforce composit
 ## 📌 Dashboard Pages
 
 ### 1. Overview
+
 Provides a high-level summary of the organization's workforce.
 
 ### 2. Employee Details
+
 Provides detailed employee-level analysis.
 
 ### 3. Attrition
+
 Analyzes employee attrition and termination patterns.
 
 ## 📷 Dashboard Preview
 
-## 📷 Dashboard Preview
-
 ### Overview
-![HR Dashboard Overview](screenshots/Screenshot%202026-09-06%20191545.png)
+
+![HR Dashboard Overview](screenshots/Overview.png)
 
 ### Employee Details
-![Employee Details](screenshots/Screenshot%202026-09-06%20191534.png)
+
+![Employee Details](screenshots/Employee-Details.png)
 
 ### Attrition
-![Attrition Dashboard](screenshots/Screenshot%202026-09-06%20191554.png)
+
+![HR Attrition Dashboard](screenshots/Attrition.png)
 
 ## 📁 Files
 
